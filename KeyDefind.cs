@@ -28,11 +28,14 @@ namespace SimulateKey
             DicDefinde.Add("zd", "震动");
 
             DicDefinde.Add("a", "按下A");
+
             DicDefinde.Add("b", "按下B");
 
             DicDefinde.Add("3g", "3G");
 
             DicDefinde.Add("ld", "亮度");
+
+            DicDefinde.Add("wd", "温度");
 
 
         }
